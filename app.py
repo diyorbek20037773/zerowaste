@@ -55,4 +55,5 @@ ZAPROSLAR:
 
 3. 
     write a streamlit code that include in advanced plotting analysis that full data form. this potting include in 1. total statistics, 2. plotting by any filters, 3.  
+
     full process and advanced plotting with threshold of Advanced Analysis with Machine Learning for Store Data.
